@@ -1,6 +1,6 @@
 # Movie Website
 
-Welcome to the **Movie Website** project! This repository contains the codebase for a website dedicated to showcasing movies, their details, and related features.
+Welcome to the **Movie Website** project! This repository contains the codebase for a website dedicated to showcasing movies, their details, and related features.The Page is also able to download movies as well
 
 ## Features
 
@@ -32,7 +32,7 @@ Welcome to the **Movie Website** project! This repository contains the codebase 
 
 ## Host
 
-Hosted using **gh-pages** [text](https://paulashton1.github.io/Movie-website-project/) 
+Hosted using **gh-pages** [text](https://paulashton1.github.io/Movie-website-project/) Please use gh-pages as default page 
 
 ## License
 
