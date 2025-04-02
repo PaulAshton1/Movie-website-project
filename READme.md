@@ -30,7 +30,10 @@ Welcome to the **Movie Website** project! This repository contains the codebase 
 - **Backend**: Node.js, Express
 - **Database**: MongoDB
 
+## Host
+
+Hosted using **gh-pages** [text](https://paulashton1.github.io/Movie-website-project/) 
+
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
-
